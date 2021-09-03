@@ -3,8 +3,9 @@ title: Poole
 tagline: The Jekyll Butler
 url: https://getpoole.com
 paginate: 1
-baseurl: ""
+baseurl: "https://ageneslaw.github.io/poole/"
 permalink: pretty
+highlighter: rouge
 
 # Gems
 plugins:
@@ -33,9 +34,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Andrew Geneslaw
+  url: https://twitter.com/gs_law
+  email: asg2195@cumc.columbia.edu
 
 # Custom vars
 version: 3.0.0
